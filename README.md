@@ -8,3 +8,4 @@ isn't much of anything to see here.
     conda env update --file environment.yml
     conda activate example-igdiscover
     make
+    make check
